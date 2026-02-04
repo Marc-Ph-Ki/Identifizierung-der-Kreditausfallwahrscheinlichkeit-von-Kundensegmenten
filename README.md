@@ -1,0 +1,2 @@
+# Identifizierung-der-Kreditausfallwahrscheinlichkeit-von-Kundensegmenten
+Klassifikation von Kreditausfallrisiken mittels Random Forest und Logistischer Regression zur Identifikation risikoreicher Kundensegmente.
